@@ -41,6 +41,7 @@ public class ComputerApplication {
         }
 
         System.out.println("計算結果是: " + result);
+        
 	}
 
 }
